@@ -7,3 +7,6 @@ Such an article is especially interesting given the overall lack of juris pruden
 
 As developers possibly entering this field, it is vital to understand the possible challenges facing it, affecting not only the ethics of what is created but also more definite concerns like employment prospects. Little is decided at the moment, however, although the highly conservative leaning Court could be said to favor the plaintiffs rather than Biden's Justice Department.
 
+----- Chih-Lun Lee's comment --- 
+
+Very good article! Although it's not software development related, government regulation is one decideing factor in production.
